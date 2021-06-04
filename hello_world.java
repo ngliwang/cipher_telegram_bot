@@ -7,5 +7,6 @@ class HelloWorld {
         System.out.println("HELLO RITCHIE!"); 
         System.out.println("HELLO Li Wang!");
         System.out.println("VSC-test");
+        System.out.println("test3");
     }
 }
