@@ -5,5 +5,6 @@
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("HELLO RITCHIE!"); 
+        System.out.println("HELLO Li Wang!");
     }
 }
